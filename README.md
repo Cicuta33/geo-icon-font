@@ -147,7 +147,7 @@ ANNEX III
 11. Area management / restriction / regulation zones & reporting units
 12. Natural risk zones
 13. Atmospheric conditions
-14. 14. Meteorological geographical features
+14. Meteorological geographical features
 15. Oceanographic geographical features
 16. Sea regions
 17. Bio-geographical regions
