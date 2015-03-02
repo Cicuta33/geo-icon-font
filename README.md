@@ -114,6 +114,7 @@ energy, water and waste systems and communications infrastructure and services. 
 -----
 
 ANNEX I
+
 1. Coordinate reference systems
 2. Geographical grid systems
 3. Geographical names
@@ -125,12 +126,14 @@ ANNEX I
 9. Protected sites
  
 ANNEX II
+
 1. Elevation
 2. Land cover
 3. Orthoimagery
 4. Geology
  
 ANNEX III
+
 1. Statistical units
 2. Buildings
 3. Soil
