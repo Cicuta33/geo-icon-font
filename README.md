@@ -113,34 +113,76 @@ energy, water and waste systems and communications infrastructure and services. 
 34 INSPIRE themes
 -----
 
+###Environmental Monitoring and Observations Cluster
+
+![EF](https://themes.jrc.ec.europa.eu/imagen/20_IconAcronym_EF.png) [Environmental monitoring Facilities](https://themes.jrc.ec.europa.eu/groups/profile/1805/environmental-monitoring-facilities)
+
+![OM](https://themes.jrc.ec.europa.eu/mod/ckeditor_extended/pages/thumbnail.php?guid=2059&name=iconOM_ls.png&site_guid=1) [Observations and measurements](https://themes.jrc.ec.europa.eu/groups/profile/1809/observations-and-measurements)
+
+###Topographic and Cadastral Reference Data
+
+![AU](https://themes.jrc.ec.europa.eu/imagen/4_IconAcronym_AU.png) [Administrative units](https://themes.jrc.ec.europa.eu/groups/profile/1841/administrative-units)
+
+![AD](https://themes.jrc.ec.europa.eu/imagen/5_IconAcronym_AD.png) [Addresses](https://themes.jrc.ec.europa.eu/groups/profile/1849/addresses)
+
+![BU](https://themes.jrc.ec.europa.eu/imagen/15_IconAcronym_BU.png) [Buildings](https://themes.jrc.ec.europa.eu/groups/profile/1853/buildings)
+
+![CP](https://themes.jrc.ec.europa.eu/imagen/6_IconAcronym_CP.png) [Cadastral parcels](https://themes.jrc.ec.europa.eu/groups/profile/1845/cadastral-parcels)
+
+![GN](https://themes.jrc.ec.europa.eu/imagen/3_IconAcronym_GN.png) [Geographical names](https://themes.jrc.ec.europa.eu/groups/profile/1837/geographical-names)
+
+![HY](https://themes.jrc.ec.europa.eu/imagen/8_IconAcronym_HY.png) [Hydrography](https://themes.jrc.ec.europa.eu/groups/profile/1833/hydrography)
+
+![TN](https://themes.jrc.ec.europa.eu/imagen/7_IconAcronym_TN.png) [Transport networks](https://themes.jrc.ec.europa.eu/groups/profile/1857/transport-networks)
+
+###Land Cover and Land Use Cluster
+
+![LC](https://themes.jrc.ec.europa.eu/groupicon/1767/large/1417866817.jpg) [Land cover](https://themes.jrc.ec.europa.eu/groups/profile/1767/land-cover)
+
+![LU](https://themes.jrc.ec.europa.eu/groupicon/1712/large/1417866700.jpg) [Land use](https://themes.jrc.ec.europa.eu/groups/profile/1712/land-use)
+
+###Elevation, Orthoimagery, Reference Systems and Geographical Grids Cluster
+
+![EV](https://themes.jrc.ec.europa.eu/groupicon/1793/large/1415628798.jpg) [Elevation](https://themes.jrc.ec.europa.eu/groups/profile/1793/elevation)
+
+![OI](https://themes.jrc.ec.europa.eu/groupicon/1797/large/1415628760.jpg) [Orthoimagery](https://themes.jrc.ec.europa.eu/groups/profile/1797/orthoimagery)
+
+![CR](https://themes.jrc.ec.europa.eu/groupicon/1958/large/1415627815.jpg) [Coordinate reference systems](https://themes.jrc.ec.europa.eu/groups/profile/1958/coordinate-reference-systems)
+
+![GG](https://themes.jrc.ec.europa.eu/groupicon/1801/large/1415627896.jpg) [Geographical grid systems](https://themes.jrc.ec.europa.eu/groups/profile/1801/geographical-grid-systems)
+
+###Earth Science Cluster
+
+https://themes.jrc.ec.europa.eu/imagen/33_IconAcronym_ER.png) [Energy Resources](https://themes.jrc.ec.europa.eu/groups/profile/1829/energy-resources)
+
 ANNEX I
 
-1. [Coordinate reference systems](https://themes.jrc.ec.europa.eu/groups/profile/1958/coordinate-reference-systems)
-2. [Geographical grid systems](https://themes.jrc.ec.europa.eu/groups/profile/1801/geographical-grid-systems)
-3. [Geographical names](https://themes.jrc.ec.europa.eu/groups/profile/1837/geographical-names)
-4. [Administrative units](https://themes.jrc.ec.europa.eu/groups/profile/1841/administrative-units)
-5. [Addresses](https://themes.jrc.ec.europa.eu/groups/profile/1849/addresses)
-6. [Cadastral parcels](https://themes.jrc.ec.europa.eu/groups/profile/1845/cadastral-parcels)
-7. [Transport networks](https://themes.jrc.ec.europa.eu/groups/profile/1857/transport-networks)
-8. [Hydrography](https://themes.jrc.ec.europa.eu/groups/profile/1833/hydrography)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
 9. [Protected sites](https://themes.jrc.ec.europa.eu/groups/profile/1737/protected-sites)
  
 ANNEX II
 
-1. [Elevation](https://themes.jrc.ec.europa.eu/groups/profile/1793/elevation)
-2. [Land cover](https://themes.jrc.ec.europa.eu/groups/profile/1767/land-cover)
+1. 
+2. 
 3. [Orthoimagery](https://themes.jrc.ec.europa.eu/groups/profile/1797/orthoimagery)
 4. [Geology](https://themes.jrc.ec.europa.eu/groups/profile/1813/geology)
  
 ANNEX III
 
 1. [Statistical units](https://themes.jrc.ec.europa.eu/groups/profile/1749/statistical-units-su)
-2. [Buildings](https://themes.jrc.ec.europa.eu/groups/profile/1853/buildings)
+2. 
 3. [Soil](https://themes.jrc.ec.europa.eu/groups/profile/1821/soil)
-4. [Land use](https://themes.jrc.ec.europa.eu/groups/profile/1712/land-use)
+4. 
 5. [Human health and safety](https://themes.jrc.ec.europa.eu/groups/profile/1777/human-health-and-safety-hh)
 6. [Utility and governmental services](https://themes.jrc.ec.europa.eu/groups/profile/1789/utility-and-governmental-services)
-7. [Environmental monitoring Facilities](https://themes.jrc.ec.europa.eu/groups/profile/1805/environmental-monitoring-facilities)
+7. 
 8. [Production and industrial facilities](https://themes.jrc.ec.europa.eu/groups/profile/1785/production-and-industrial-facilities)
 9. [Agricultural and aquaculture facilities](https://themes.jrc.ec.europa.eu/groups/profile/1781/agricultural-and-aquaculture-facilities)
 10. [Population distribution and demography](https://themes.jrc.ec.europa.eu/groups/profile/1772/population-distribution-demography-pd)
@@ -153,7 +195,7 @@ ANNEX III
 17. [Bio-geographical regions](https://themes.jrc.ec.europa.eu/groups/profile/1762/bio-geographical-regions)
 18. [Habitats and biotopes](https://themes.jrc.ec.europa.eu/groups/profile/1757/habitats-and-biotopes)
 19. [Species distribution](https://themes.jrc.ec.europa.eu/groups/profile/2017/species-distribution)
-20. [Energy Resources](https://themes.jrc.ec.europa.eu/groups/profile/1829/energy-resources)
+20. 
 21. [Mineral Resources](https://themes.jrc.ec.europa.eu/groups/profile/1825/mineral-resources)
 
-[Observations and measurements](https://themes.jrc.ec.europa.eu/groups/profile/1809/observations-and-measurements)
+
