@@ -109,3 +109,46 @@ means and aids for conveying persons and/or goods. Examples: roads, airports/air
 * utilitiesCommunication
 
 energy, water and waste systems and communications infrastructure and services. Examples: hydroelectricity, geothermal, solar and nuclear sources of energy, water purification and distribution, sewage collection and disposal, electricity and gas distribution, data communication, telecommunication, radio, communication networks
+
+34 INSPIRE themes
+-----
+
+ANNEX I
+1. Coordinate reference systems
+2. Geographical grid systems
+3. Geographical names
+4. Administrative units
+5. Addresses
+6. Cadastral parcels
+7. Transport networks
+8. Hydrography
+9. Protected sites
+ 
+ANNEX II
+1. Elevation
+2. Land cover
+3. Orthoimagery
+4. Geology
+ 
+ANNEX III
+1. Statistical units
+2. Buildings
+3. Soil
+4. Land use
+5. Human health and safety
+6. Utility and governmental services
+7. Environmental monitoring Facilities
+8. Production and industrial facilities
+9. Agricultural and aquaculture facilities
+10. Population distribution and demography
+11. Area management / restriction / regulation zones & reporting units
+12. Natural risk zones
+13. Atmospheric conditions
+14. 14. Meteorological geographical features
+15. Oceanographic geographical features
+16. Sea regions
+17. Bio-geographical regions
+18. Habitats and biotopes
+19. Species distribution
+20. Energy Resources
+21. Mineral Resources
