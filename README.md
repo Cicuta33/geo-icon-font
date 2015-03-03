@@ -153,49 +153,50 @@ energy, water and waste systems and communications infrastructure and services. 
 
 ###Earth Science Cluster
 
-https://themes.jrc.ec.europa.eu/imagen/33_IconAcronym_ER.png) [Energy Resources](https://themes.jrc.ec.europa.eu/groups/profile/1829/energy-resources)
+![ER](https://themes.jrc.ec.europa.eu/imagen/33_IconAcronym_ER.png) [Energy Resources](https://themes.jrc.ec.europa.eu/groups/profile/1829/energy-resources)
 
-ANNEX I
+![MR](https://themes.jrc.ec.europa.eu/groupicon/1825/large/1416933959.jpg) [Mineral Resources](https://themes.jrc.ec.europa.eu/groups/profile/1825/mineral-resources)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. [Protected sites](https://themes.jrc.ec.europa.eu/groups/profile/1737/protected-sites)
- 
-ANNEX II
+![SO](https://themes.jrc.ec.europa.eu/imagen/16_IconAcronym_SO.png) [Soil](https://themes.jrc.ec.europa.eu/groups/profile/1821/soil)
 
-1. 
-2. 
-3. [Orthoimagery](https://themes.jrc.ec.europa.eu/groups/profile/1797/orthoimagery)
-4. [Geology](https://themes.jrc.ec.europa.eu/groups/profile/1813/geology)
- 
-ANNEX III
+![NZ](https://themes.jrc.ec.europa.eu/imagen/25_IconAcronym_AZ.png) [Natural risk zones](https://themes.jrc.ec.europa.eu/groups/profile/1817/natural-risk-zones)
 
-1. [Statistical units](https://themes.jrc.ec.europa.eu/groups/profile/1749/statistical-units-su)
-2. 
-3. [Soil](https://themes.jrc.ec.europa.eu/groups/profile/1821/soil)
-4. 
-5. [Human health and safety](https://themes.jrc.ec.europa.eu/groups/profile/1777/human-health-and-safety-hh)
-6. [Utility and governmental services](https://themes.jrc.ec.europa.eu/groups/profile/1789/utility-and-governmental-services)
-7. 
-8. [Production and industrial facilities](https://themes.jrc.ec.europa.eu/groups/profile/1785/production-and-industrial-facilities)
-9. [Agricultural and aquaculture facilities](https://themes.jrc.ec.europa.eu/groups/profile/1781/agricultural-and-aquaculture-facilities)
-10. [Population distribution and demography](https://themes.jrc.ec.europa.eu/groups/profile/1772/population-distribution-demography-pd)
-11. [Area management / restriction / regulation zones & reporting units](https://themes.jrc.ec.europa.eu/groups/profile/1746/area-management-restriction-regulation-zones-reporting-units)
-12. [Natural risk zones](https://themes.jrc.ec.europa.eu/groups/profile/1817/natural-risk-zones)
-13. [Atmospheric conditions](https://themes.jrc.ec.europa.eu/groups/profile/1865/atmospheric-conditions)
-14. [Meteorological geographical features](https://themes.jrc.ec.europa.eu/groups/profile/1867/meteorological-geographical-features)
-15. [Oceanographic geographical features](https://themes.jrc.ec.europa.eu/groups/profile/1859/oceanographic-features)
-16. [Sea regions](https://themes.jrc.ec.europa.eu/groups/profile/1863/sea-regions)
-17. [Bio-geographical regions](https://themes.jrc.ec.europa.eu/groups/profile/1762/bio-geographical-regions)
-18. [Habitats and biotopes](https://themes.jrc.ec.europa.eu/groups/profile/1757/habitats-and-biotopes)
-19. [Species distribution](https://themes.jrc.ec.europa.eu/groups/profile/2017/species-distribution)
-20. 
-21. [Mineral Resources](https://themes.jrc.ec.europa.eu/groups/profile/1825/mineral-resources)
+![GE](https://themes.jrc.ec.europa.eu/imagen/13_IconAcronym_GE.png) [Geology](https://themes.jrc.ec.europa.eu/groups/profile/1813/geology)
 
+###Facilities, Utilities and Public Services Cluster
 
+![GS](https://themes.jrc.ec.europa.eu/groupicon/1789/large/1415784541.jpg) [Utility and governmental services](https://themes.jrc.ec.europa.eu/groups/profile/1789/utility-and-governmental-services)
+
+![IF](https://themes.jrc.ec.europa.eu/groupicon/1785/large/1415784653.jpg) [Production and industrial facilities](https://themes.jrc.ec.europa.eu/groups/profile/1785/production-and-industrial-facilities)
+
+![AF](https://themes.jrc.ec.europa.eu/groupicon/1781/large/1415784740.jpg) [Agricultural and aquaculture facilities](https://themes.jrc.ec.europa.eu/groups/profile/1781/agricultural-and-aquaculture-facilities)
+
+###Marine and Atmosphere Cluster
+
+![MF](https://themes.jrc.ec.europa.eu/imagen/27_IconAcronym_MF.png) [Meteorological geographical features](https://themes.jrc.ec.europa.eu/groups/profile/1867/meteorological-geographical-features)
+
+![AC](https://themes.jrc.ec.europa.eu/imagen/26_IconAcronym_AC.png) [Atmospheric conditions](https://themes.jrc.ec.europa.eu/groups/profile/1865/atmospheric-conditions)
+
+![SR](https://themes.jrc.ec.europa.eu/imagen/29_IconAcronym_SR.png) [Sea regions](https://themes.jrc.ec.europa.eu/groups/profile/1863/sea-regions)
+
+![OF](https://themes.jrc.ec.europa.eu/imagen/28_IconAcronym_OF.png) [Oceanographic geographical features](https://themes.jrc.ec.europa.eu/groups/profile/1859/oceanographic-features)
+
+###Biodiversity and Management Areas Cluster
+
+![PS](https://themes.jrc.ec.europa.eu/imagen/9_IconAcronym_PS.png) [Protected sites](https://themes.jrc.ec.europa.eu/groups/profile/1737/protected-sites)
+
+![BR](https://themes.jrc.ec.europa.eu/imagen/30_IconAcronym_BR.png) [Bio-geographical regions](https://themes.jrc.ec.europa.eu/groups/profile/1762/bio-geographical-regions)
+
+![HB](https://themes.jrc.ec.europa.eu/imagen/31_IconAcronym_HB.png) [Habitats and biotopes](https://themes.jrc.ec.europa.eu/groups/profile/1757/habitats-and-biotopes)
+
+![SD](https://themes.jrc.ec.europa.eu/imagen/32_IconAcronym_SD.png) [Species distribution](https://themes.jrc.ec.europa.eu/groups/profile/2017/species-distribution)
+
+![AM](https://themes.jrc.ec.europa.eu/imagen/24_IconAcronym_AM.png) [Area management / restriction / regulation zones & reporting units](https://themes.jrc.ec.europa.eu/groups/profile/1746/area-management-restriction-regulation-zones-reporting-units)
+
+###Statistical Cluster
+
+![AM](https://themes.jrc.ec.europa.eu/imagen/14_IconAcronym_SU.png) [Statistical units](https://themes.jrc.ec.europa.eu/groups/profile/1749/statistical-units-su)
+
+![PD](https://themes.jrc.ec.europa.eu/imagen/23_IconAcronym_PD.png) [Population distribution and demography](https://themes.jrc.ec.europa.eu/groups/profile/1772/population-distribution-demography-pd)
+
+![HH](https://themes.jrc.ec.europa.eu/imagen/18_IconAcronym_HH.png) [Human health and safety](https://themes.jrc.ec.europa.eu/groups/profile/1777/human-health-and-safety-hh)
